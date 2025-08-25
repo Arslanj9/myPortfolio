@@ -28,7 +28,7 @@ const Home = () => {
         <Experience />
       </section>
 
-      <section id="contact" className="min-h-screen bg-gray-200">
+      <section id="contact" className="min-h-lvh flex items-center bg-gray-200">
         <Contact />
       </section>
     </div>
